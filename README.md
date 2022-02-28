@@ -1,3 +1,3 @@
 # Mistahs-autotyper
 one of the first git repositories made by me!
-source code for an autotyper made with pynput and tkinter
+source code for an autotyper/macro maker made with pynput and tkinter
