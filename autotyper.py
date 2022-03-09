@@ -4,23 +4,7 @@ from tkinter import *
 import time 
 global begin
 begin = 0
-line1 = ""
-line2 = ""
-line3 = ""
-line4 = ""
-line5 = ""
-tk = Tk()
-Frame = Frame(side = LEFT)
+pynput_pip_install.install()
 
-def get_entry():
-   input = self.myText_Box.get("1.0",END)
-   begin = 1
-
-    
-def start():
-  while begin == 1:
-    if line1  == "tab"
-   
-    
 
 
